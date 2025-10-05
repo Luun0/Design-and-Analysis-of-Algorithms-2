@@ -12,7 +12,7 @@ public class PerformanceTracker {
     public void countSwap() {
         swaps++;
     }
-
+//
     public long getComparisons() {
         return comparisons;
     }
